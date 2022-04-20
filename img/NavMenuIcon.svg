@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="transparent" width="40" height="35" viewBox="0 0 40 35">
+  <g id="NavMenuIcon" transform="translate(-2 -8.05)">
+    <rect id="Box" width="40" height="35" transform="translate(2 8.05)"/>
+    <path id="Line3" d="M38.042,26.125H5.958A1.37,1.37,0,0,1,4.5,24.875h0a1.37,1.37,0,0,1,1.458-1.25H38.042a1.37,1.37,0,0,1,1.458,1.25h0A1.37,1.37,0,0,1,38.042,26.125Z" transform="translate(0 12.27)" fill="#fff"/>
+    <path id="Line2" d="M19.817,19.375H5.166c-.366,0-.666-.562-.666-1.25h0c0-.687.3-1.25.666-1.25H19.817c.366,0,.666.563.666,1.25h0C20.483,18.813,20.183,19.375,19.817,19.375Z" transform="translate(9.509 6.175)" fill="#fff"/>
+    <path id="Line1" d="M38.042,12.625H5.958A1.37,1.37,0,0,1,4.5,11.375h0a1.37,1.37,0,0,1,1.458-1.25H38.042a1.37,1.37,0,0,1,1.458,1.25h0A1.37,1.37,0,0,1,38.042,12.625Z" transform="translate(0 0.081)" fill="#fff"/>
+  </g>
+</svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="copyAddress" opacity="0.6">
+    <g id="Boundary" fill="#fff" stroke="rgba(0,0,0,0)" stroke-width="1" opacity="0">
+      <rect width="24" height="24" stroke="none"/>
+      <rect x="0.5" y="0.5" width="23" height="23" fill="none"/>
+    </g>
+    <path id="Path_content-copy" data-name="Path / content-copy" d="M19,21H8V7H19m0-2H8A2,2,0,0,0,6,7V21a2,2,0,0,0,2,2H19a2,2,0,0,0,2-2V7a2,2,0,0,0-2-2M16,1H4A2,2,0,0,0,2,3V17H4V3H16Z" transform="translate(1)" fill="#fff"/>
+  </g>
+</svg>
